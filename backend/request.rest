@@ -1,0 +1,6 @@
+POST https://localhost:3000/auth 
+Content-type : application/json
+
+{
+    "username": "rizz",
+}
